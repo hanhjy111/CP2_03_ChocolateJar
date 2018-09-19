@@ -1,7 +1,8 @@
 # CP2_03_ChocolateJar
 컴퓨터프로그래밍2 실습 3주차<br>
 13 Chocolate 1 Chilli Game 구현<br>
-이 repository를 이용하고 싶다면 본인 계정으로 Fork 후 사용
+이 repository를 이용하고 싶다면 본인 계정으로 Fork 후 사용<br>
+clone으로 받은 소스 코드는 Eclipse에서 Import를 이용하면 프로젝트가 자동 생성 되므로 바로 코딩 가능
 
  * 게임 실행을 담당하는 Main 클래스와 ChocolatreJar 클래스는 따로 생성
  * ChocolateJar 클래스는 Jar 인터페이스를 상속
